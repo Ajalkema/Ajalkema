@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Arjen
+- 👋 Hi, I’m Arjen Alkema
 - 👀 I’m interested in software development and data science
 - 🌱 I’m currently learning Java
-- 📫 How to reach me https://www.linkedin.com/in/arjen-alkema/
+- 📫 You can reach me at: https://www.linkedin.com/in/arjen-alkema/
 
 <!---
 Ajalkema/Ajalkema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
