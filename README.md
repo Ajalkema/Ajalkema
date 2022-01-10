@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arjen Alkema
-- 👀 I’m interested in software development and data science
+- 👀 I’m interested in software and web development
 - 🌱 I’m currently learning Java
 - 📫 You can reach me at: https://www.linkedin.com/in/arjen-alkema/
 
